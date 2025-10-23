@@ -1,0 +1,113 @@
+[
+  {
+    "namespace": "conversations",
+    "text": "User: hello\nAgent: Hello! How can I assist you today?",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "conversation",
+      "timestamp": "2025-10-22T23:21:09.254205",
+      "user_message": "hello",
+      "agent_response": "Hello! How can I assist you today?"
+    },
+    "timestamp": "2025-10-22T23:21:09.254321"
+  },
+  {
+    "namespace": "users",
+    "text": "User msidd: John speaks ",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "user_info"
+    },
+    "timestamp": "2025-10-22T23:21:10.489784"
+  },
+  {
+    "namespace": "conversations",
+    "text": "User: my name is John\nAgent: I've saved your name as John. If you'd like to provide your preferred language or any other information, just let me know!",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "conversation",
+      "timestamp": "2025-10-22T23:21:11.692771",
+      "user_message": "my name is John",
+      "agent_response": "I've saved your name as John. If you'd like to provide your preferred language or any other information, just let me know!"
+    },
+    "timestamp": "2025-10-22T23:21:11.693048"
+  },
+  {
+    "namespace": "users",
+    "text": "User msidd: student speaks ",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "user_info"
+    },
+    "timestamp": "2025-10-22T23:21:12.997543"
+  },
+  {
+    "namespace": "conversations",
+    "text": "User: I am a student\nAgent: I've noted that you're a student. If there's anything specific you'd like to discuss or if you have any questions, feel free to ask!",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "conversation",
+      "timestamp": "2025-10-22T23:21:14.060838",
+      "user_message": "I am a student",
+      "agent_response": "I've noted that you're a student. If there's anything specific you'd like to discuss or if you have any questions, feel free to ask!"
+    },
+    "timestamp": "2025-10-22T23:21:14.061189"
+  },
+  {
+    "namespace": "conversations",
+    "text": "User: hello\nAgent: Hello! How can I assist you today?",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "conversation",
+      "timestamp": "2025-10-22T23:22:07.765400",
+      "user_message": "hello",
+      "agent_response": "Hello! How can I assist you today?"
+    },
+    "timestamp": "2025-10-22T23:22:07.765837"
+  },
+  {
+    "namespace": "users",
+    "text": "User msidd: Student speaks English",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "user_info"
+    },
+    "timestamp": "2025-10-22T23:22:11.365428"
+  },
+  {
+    "namespace": "conversations",
+    "text": "User: i am a student\nAgent: I've noted that you're a student. How can I assist you today?",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "conversation",
+      "timestamp": "2025-10-22T23:22:12.369483",
+      "user_message": "i am a student",
+      "agent_response": "I've noted that you're a student. How can I assist you today?"
+    },
+    "timestamp": "2025-10-22T23:22:12.369905"
+  },
+  {
+    "namespace": "conversations",
+    "text": "User: okay tell me, am i a teacher or a student\nAgent: You are a student. How can I assist you today?",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "conversation",
+      "timestamp": "2025-10-22T23:22:29.342070",
+      "user_message": "okay tell me, am i a teacher or a student",
+      "agent_response": "You are a student. How can I assist you today?"
+    },
+    "timestamp": "2025-10-22T23:22:29.342479"
+  },
+  {
+    "namespace": "conversations",
+    "text": "User: great, i am working on a chatbot\nAgent: That sounds interesting! What kind of chatbot are you working on, and what specific functionalities are you planning to implement?",
+    "metadata": {
+      "user_id": "msidd",
+      "type": "conversation",
+      "timestamp": "2025-10-22T23:22:47.674453",
+      "user_message": "great, i am working on a chatbot",
+      "agent_response": "That sounds interesting! What kind of chatbot are you working on, and what specific functionalities are you planning to implement?"
+    },
+    "timestamp": "2025-10-22T23:22:47.674959"
+  }
+]
